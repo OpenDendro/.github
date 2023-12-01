@@ -1,12 +1,7 @@
-## Hi there 👋
+## openDendro
 
-<!--
+Welcome to openDendro, the home of an open-source framework for the essential analytic software used in dendrochronology. Our aim is to provide researchers working with tree-ring data the necessary tools in open-source environments, promoting open science practices, and enhancing rigor and transparency in dendrochronology.
 
-**Here are some ideas to get you started:**
+At openDendro, we recognize the importance of these foundational tools in advancing scientific knowledge, enabling collaboration, reproducibility, and the collective progress of the dendrochronology community. Our framework seamlessly integrates with popular programming languages R and Python, accommodating diverse researchers' preferences and workflows, while embracing open-source principles to foster innovation and facilitate the sharing of knowledge within the field.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+You can learn more about the project and our activities here: [https://opendendro.org/](https://opendendro.org/)
